@@ -26,7 +26,7 @@ This project is a web scraping tool developed using the Python FastAPI framework
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/scraper-project.git
+   git clone https://github.com/yashjoshi17/scraper-project.git
    cd scraper-project
 
 2. Create and activate a virtual environment:
